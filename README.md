@@ -1,6 +1,5 @@
 # RemoteDesktop
 
-<h2>Remote Desktop</h2>
 
 ![image](https://github.com/user-attachments/assets/a10997c0-9dbc-4fa2-ae0d-66d981d3350c)
 
